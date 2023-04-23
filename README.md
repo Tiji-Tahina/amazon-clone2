@@ -1,2 +1,3 @@
 # amazon-clone2
- a redo 
+
+a redo -- github readme
